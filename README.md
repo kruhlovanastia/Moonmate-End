@@ -3,7 +3,7 @@
 **Moonmate** - це вебзастосунок для знайомств, створений для тих, хто вірить у карму, місяць і силу зграї. Стилістика сайту витримана у містичних рожево-фіолетових тонах.
 
 ## 🔗 Контрольні посилання
-*   **Розгорнута версія сайту (Live Demo):** https://kruhlovanastia.github.io/Moonmate-iz-/main
+*   **Розгорнута версія сайту (Live Demo):** https://kruhlovanastia.github.io/Moonmate-End/main
 *   **Дизайн-макет у Figma:** https://www.figma.com/design/D202nHSICKaYP8ZUbFoKY2/Moonmate?node-id=0-1&p=f&t=y6icUWTZ4bJ9yfAB-0
 
 ## 👥 Команда та розподіл ролей
